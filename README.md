@@ -32,7 +32,6 @@ A: This plugin supports all standard image formats, such as JPG, PNG, GIF and mo
 
 1. Clipboard image upload in action
 2. Successful upload message
-3. Automatically refreshed media library
 
 ## Changelog
 
