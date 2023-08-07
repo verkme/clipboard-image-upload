@@ -30,8 +30,8 @@ A: This plugin supports all standard image formats, such as JPG, PNG, GIF and mo
 
 ## Screenshots
 
-1. Clipboard image upload in action
-2. Successful upload message
+1. ![Clipboard image upload in action](https://github.com/verkme/clipboard-image-upload/blob/77ca997c90bcdf766f2b49823cd2df1e645ae98e/assets/screenshot-1.png)
+2. ![Successful upload message](https://github.com/verkme/clipboard-image-upload/blob/77ca997c90bcdf766f2b49823cd2df1e645ae98e/assets/screenshot-1.png)
 
 ## Changelog
 
